@@ -7,10 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="basic-algorithm" />
+        <module name="sound-skill" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="basic-algorithm" target="1.5" />
+      <module name="sound-skill" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sound-skill" options="-parameters" />
+    </option>
   </component>
 </project>

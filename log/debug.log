@@ -1,0 +1,252 @@
+0903 17:03:39.732 [main] INFO org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) SampleApplication - Starting SampleApplication on DESKTOP-SSF679Q with PID 83728 (F:\github\hello_word\sound-skill\target\classes started by lw in F:\github\hello_word)
+0903 17:03:39.739 [main] DEBUGorg.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:53) SampleApplication - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+0903 17:03:39.740 [main] INFO org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:675) SampleApplication - No active profile set, falling back to default profiles: default
+0903 17:03:41.253 [main] INFO org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8310"]
+0903 17:03:41.264 [main] INFO org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) StandardService - Starting service [Tomcat]
+0903 17:03:41.265 [main] INFO org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+0903 17:03:41.485 [main] INFO org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) [/] - Initializing Spring embedded WebApplicationContext
+0903 17:03:41.861 [main] DEBUGorg.hibernate.validator.internal.engine.resolver.TraversableResolvers.getDefault(TraversableResolvers.java:60) TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+0903 17:03:41.861 [main] DEBUGorg.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator.buildExpressionFactory(ResourceBundleMessageInterpolator.java:89) ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
+0903 17:03:41.863 [main] DEBUGorg.hibernate.validator.internal.engine.resolver.TraversableResolvers.getDefault(TraversableResolvers.java:60) TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+0903 17:03:41.864 [main] DEBUGorg.hibernate.validator.internal.engine.ConfigurationImpl.messageInterpolator(ConfigurationImpl.java:148) ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+0903 17:03:41.865 [main] DEBUGorg.hibernate.validator.internal.engine.ConfigurationImpl.constraintValidatorFactory(ConfigurationImpl.java:180) ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+0903 17:03:41.865 [main] DEBUGorg.hibernate.validator.internal.engine.ConfigurationImpl.parameterNameProvider(ConfigurationImpl.java:194) ConfigurationImpl - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+0903 17:03:41.866 [main] DEBUGorg.hibernate.validator.internal.xml.config.ValidationXmlParser.getValidationXmlInputStream(ValidationXmlParser.java:120) ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+0903 17:03:41.866 [main] DEBUGorg.hibernate.validator.internal.xml.config.ResourceLoaderHelper.getResettableInputStreamForPath(ResourceLoaderHelper.java:53) ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+0903 17:03:41.867 [main] DEBUGorg.hibernate.validator.internal.xml.config.ResourceLoaderHelper.getResettableInputStreamForPath(ResourceLoaderHelper.java:60) ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+0903 17:03:41.867 [main] DEBUGorg.hibernate.validator.internal.xml.config.ResourceLoaderHelper.getResettableInputStreamForPath(ResourceLoaderHelper.java:66) ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+0903 17:03:41.867 [main] DEBUGorg.hibernate.validator.internal.xml.config.ValidationXmlParser.getValidationXmlInputStream(ValidationXmlParser.java:127) ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+0903 17:03:41.870 [main] DEBUGorg.hibernate.validator.internal.engine.ValidatorFactoryImpl.logValidatorFactoryScopedConfiguration(ValidatorFactoryImpl.java:578) ValidatorFactoryImpl - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+0903 17:03:41.870 [main] DEBUGorg.hibernate.validator.internal.engine.ValidatorFactoryImpl.logValidatorFactoryScopedConfiguration(ValidatorFactoryImpl.java:579) ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+0903 17:03:41.871 [main] DEBUGorg.hibernate.validator.internal.engine.ValidatorFactoryImpl.logValidatorFactoryScopedConfiguration(ValidatorFactoryImpl.java:580) ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+0903 17:03:41.871 [main] DEBUGorg.hibernate.validator.internal.engine.ValidatorFactoryImpl.logValidatorFactoryScopedConfiguration(ValidatorFactoryImpl.java:581) ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+0903 17:03:41.871 [main] DEBUGorg.hibernate.validator.internal.engine.ValidatorFactoryImpl.logValidatorFactoryScopedConfiguration(ValidatorFactoryImpl.java:582) ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+0903 17:03:42.205 [main] INFO org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) Http11NioProtocol - Starting ProtocolHandler ["http-nio-8310"]
+0903 17:03:42.240 [main] INFO org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) SampleApplication - Started SampleApplication in 3.173 seconds (JVM running for 4.239)
+0903 17:03:52.114 [http-nio-8310-exec-1] DEBUGcom.huolongguo.study.helloworld.interceptor.HelloWorldRequestInterceptor.process(HelloWorldRequestInterceptor.java:17) HelloWorldRequestInterceptor - class RequestEnvelope {
+    version: 1.0
+    session: class Session {
+        _new: true
+        sessionId: token.domain-api.session.5d00fda9590801000688cc39
+        user: class User {
+            userId: test_user
+            accessToken: null
+            permissions: null
+        }
+        attributes: null
+        application: class Application {
+            applicationId: AACPffXvYNUT6bmy8NxOS22k
+        }
+    }
+    context: class Context {
+        system: class SystemState {
+            application: class Application {
+                applicationId: AACPffXvYNUT6bmy8NxOS22k
+            }
+            user: class User {
+                userId: test_user
+                accessToken: null
+                permissions: null
+            }
+            device: class Device {
+                deviceId: 123456789
+                supportedInterfaces: class SupportedInterfaces {
+                    alexaPresentationAPL: null
+                    audioPlayer: null
+                    display: null
+                    videoApp: null
+                    geolocation: null
+                }
+            }
+            apiEndpoint: null
+            apiAccessToken: null
+        }
+        audioPlayer: null
+        automotive: null
+        display: null
+        geolocation: null
+        viewport: null
+    }
+    request: class IntentRequest {
+        class Request {
+            type: IntentRequest
+            requestId: 7b3f4e37-e074-4d67-841c-80e7136433a2
+            timestamp: 2019-09-03T08:57:45.932Z
+            locale: null
+        }
+        dialogState: null
+        intent: class Intent {
+            name: zengliang
+            slots: {SlotName=class Slot {
+                name: SlotName
+                value: {}
+                confirmationStatus: null
+                resolutions: null
+            }}
+            confirmationStatus: null
+        }
+    }
+}
+0903 17:03:52.116 [http-nio-8310-exec-1] ERRORcom.amazon.ask.request.dispatcher.impl.BaseRequestDispatcher.doDispatch(BaseRequestDispatcher.java:103) BaseRequestDispatcher - Unable to find a suitable request handler
+0903 17:03:52.119 [http-nio-8310-exec-1] ERRORcom.amazon.ask.servlet.SkillServlet.doPost(SkillServlet.java:122) SkillServlet - Exception occurred in doPost, returning status code 500
+com.amazon.ask.exception.UnhandledSkillException: Unhandled exception
+	at com.amazon.ask.request.dispatcher.impl.BaseRequestDispatcher.dispatch(BaseRequestDispatcher.java:79) ~[ask-sdk-runtime-2.19.0.jar:?]
+	at com.amazon.ask.CustomSkill.invoke(CustomSkill.java:101) ~[ask-sdk-core-2.19.0.jar:?]
+	at com.amazon.ask.CustomSkill.invoke(CustomSkill.java:70) ~[ask-sdk-core-2.19.0.jar:?]
+	at com.amazon.ask.CustomSkill.invoke(CustomSkill.java:66) ~[ask-sdk-core-2.19.0.jar:?]
+	at com.amazon.ask.servlet.SkillServlet.doPost(SkillServlet.java:105) [ask-sdk-servlet-support-2.19.0.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-embed-websocket-9.0.19.jar:9.0.19]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) [spring-web-5.1.7.RELEASE.jar:5.1.7.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.1.7.RELEASE.jar:5.1.7.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92) [spring-web-5.1.7.RELEASE.jar:5.1.7.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.1.7.RELEASE.jar:5.1.7.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93) [spring-web-5.1.7.RELEASE.jar:5.1.7.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.1.7.RELEASE.jar:5.1.7.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200) [spring-web-5.1.7.RELEASE.jar:5.1.7.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-5.1.7.RELEASE.jar:5.1.7.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:836) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1747) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_191]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.19.jar:9.0.19]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
+Caused by: com.amazon.ask.exception.AskSdkException: Unable to find a suitable request handler
+	at com.amazon.ask.request.dispatcher.impl.BaseRequestDispatcher.doDispatch(BaseRequestDispatcher.java:104) ~[ask-sdk-runtime-2.19.0.jar:?]
+	at com.amazon.ask.request.dispatcher.impl.BaseRequestDispatcher.dispatch(BaseRequestDispatcher.java:72) ~[ask-sdk-runtime-2.19.0.jar:?]
+	... 43 more
+0903 17:03:52.133 [http-nio-8310-exec-1] INFO org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) [/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+0903 17:12:21.230 [main] INFO org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) SampleApplication - Starting SampleApplication on DESKTOP-SSF679Q with PID 86560 (F:\github\hello_word\sound-skill\target\classes started by lw in F:\github\hello_word)
+0903 17:12:21.236 [main] DEBUGorg.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:53) SampleApplication - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+0903 17:12:21.237 [main] INFO org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:675) SampleApplication - No active profile set, falling back to default profiles: default
+0903 17:12:22.509 [main] INFO org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8310"]
+0903 17:12:22.518 [main] INFO org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) StandardService - Starting service [Tomcat]
+0903 17:12:22.519 [main] INFO org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+0903 17:12:22.707 [main] INFO org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) [/] - Initializing Spring embedded WebApplicationContext
+0903 17:12:23.125 [main] DEBUGorg.hibernate.validator.internal.engine.resolver.TraversableResolvers.getDefault(TraversableResolvers.java:60) TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+0903 17:12:23.126 [main] DEBUGorg.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator.buildExpressionFactory(ResourceBundleMessageInterpolator.java:89) ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
+0903 17:12:23.130 [main] DEBUGorg.hibernate.validator.internal.engine.resolver.TraversableResolvers.getDefault(TraversableResolvers.java:60) TraversableResolvers - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+0903 17:12:23.131 [main] DEBUGorg.hibernate.validator.internal.engine.ConfigurationImpl.messageInterpolator(ConfigurationImpl.java:148) ConfigurationImpl - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+0903 17:12:23.132 [main] DEBUGorg.hibernate.validator.internal.engine.ConfigurationImpl.constraintValidatorFactory(ConfigurationImpl.java:180) ConfigurationImpl - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+0903 17:12:23.133 [main] DEBUGorg.hibernate.validator.internal.engine.ConfigurationImpl.parameterNameProvider(ConfigurationImpl.java:194) ConfigurationImpl - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+0903 17:12:23.134 [main] DEBUGorg.hibernate.validator.internal.xml.config.ValidationXmlParser.getValidationXmlInputStream(ValidationXmlParser.java:120) ValidationXmlParser - Trying to load META-INF/validation.xml for XML based Validator configuration.
+0903 17:12:23.134 [main] DEBUGorg.hibernate.validator.internal.xml.config.ResourceLoaderHelper.getResettableInputStreamForPath(ResourceLoaderHelper.java:53) ResourceLoaderHelper - Trying to load META-INF/validation.xml via user class loader
+0903 17:12:23.135 [main] DEBUGorg.hibernate.validator.internal.xml.config.ResourceLoaderHelper.getResettableInputStreamForPath(ResourceLoaderHelper.java:60) ResourceLoaderHelper - Trying to load META-INF/validation.xml via TCCL
+0903 17:12:23.135 [main] DEBUGorg.hibernate.validator.internal.xml.config.ResourceLoaderHelper.getResettableInputStreamForPath(ResourceLoaderHelper.java:66) ResourceLoaderHelper - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+0903 17:12:23.135 [main] DEBUGorg.hibernate.validator.internal.xml.config.ValidationXmlParser.getValidationXmlInputStream(ValidationXmlParser.java:127) ValidationXmlParser - No META-INF/validation.xml found. Using annotation based configuration only.
+0903 17:12:23.138 [main] DEBUGorg.hibernate.validator.internal.engine.ValidatorFactoryImpl.logValidatorFactoryScopedConfiguration(ValidatorFactoryImpl.java:578) ValidatorFactoryImpl - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+0903 17:12:23.139 [main] DEBUGorg.hibernate.validator.internal.engine.ValidatorFactoryImpl.logValidatorFactoryScopedConfiguration(ValidatorFactoryImpl.java:579) ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+0903 17:12:23.139 [main] DEBUGorg.hibernate.validator.internal.engine.ValidatorFactoryImpl.logValidatorFactoryScopedConfiguration(ValidatorFactoryImpl.java:580) ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+0903 17:12:23.139 [main] DEBUGorg.hibernate.validator.internal.engine.ValidatorFactoryImpl.logValidatorFactoryScopedConfiguration(ValidatorFactoryImpl.java:581) ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+0903 17:12:23.139 [main] DEBUGorg.hibernate.validator.internal.engine.ValidatorFactoryImpl.logValidatorFactoryScopedConfiguration(ValidatorFactoryImpl.java:582) ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+0903 17:12:23.514 [main] INFO org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) Http11NioProtocol - Starting ProtocolHandler ["http-nio-8310"]
+0903 17:12:23.544 [main] INFO org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) SampleApplication - Started SampleApplication in 2.835 seconds (JVM running for 3.811)
+0903 17:12:36.452 [http-nio-8310-exec-1] DEBUGcom.huolongguo.study.helloworld.interceptor.HelloWorldRequestInterceptor.process(HelloWorldRequestInterceptor.java:17) HelloWorldRequestInterceptor - class RequestEnvelope {
+    version: 1.0
+    session: class Session {
+        _new: true
+        sessionId: token.domain-api.session.5d00fda9590801000688cc39
+        user: class User {
+            userId: test_user
+            accessToken: null
+            permissions: null
+        }
+        attributes: null
+        application: class Application {
+            applicationId: AACPffXvYNUT6bmy8NxOS22k
+        }
+    }
+    context: class Context {
+        system: class SystemState {
+            application: class Application {
+                applicationId: AACPffXvYNUT6bmy8NxOS22k
+            }
+            user: class User {
+                userId: test_user
+                accessToken: null
+                permissions: null
+            }
+            device: class Device {
+                deviceId: 123456789
+                supportedInterfaces: class SupportedInterfaces {
+                    alexaPresentationAPL: null
+                    audioPlayer: null
+                    display: null
+                    videoApp: null
+                    geolocation: null
+                }
+            }
+            apiEndpoint: null
+            apiAccessToken: null
+        }
+        audioPlayer: null
+        automotive: null
+        display: null
+        geolocation: null
+        viewport: null
+    }
+    request: class IntentRequest {
+        class Request {
+            type: IntentRequest
+            requestId: 7b3f4e37-e074-4d67-841c-80e7136433a2
+            timestamp: 2019-09-03T09:11:45.932Z
+            locale: null
+        }
+        dialogState: null
+        intent: class Intent {
+            name: HelloWorldIntent
+            slots: {SlotName=class Slot {
+                name: SlotName
+                value: {}
+                confirmationStatus: null
+                resolutions: null
+            }}
+            confirmationStatus: null
+        }
+    }
+}
+0903 17:12:36.454 [http-nio-8310-exec-1] DEBUGcom.amazon.ask.request.dispatcher.impl.BaseRequestDispatcher.doDispatch(BaseRequestDispatcher.java:100) BaseRequestDispatcher - Found matching handler
+0903 17:12:36.456 [http-nio-8310-exec-1] DEBUGcom.amazon.ask.request.dispatcher.impl.BaseRequestDispatcher.doDispatch(BaseRequestDispatcher.java:113) BaseRequestDispatcher - Found compatible adapter com.amazon.ask.request.handler.adapter.impl.BaseHandlerAdapter
+0903 17:12:36.459 [http-nio-8310-exec-1] DEBUGcom.huolongguo.study.helloworld.interceptor.HelloWorldResponseInterceptor.lambda$process$0(HelloWorldResponseInterceptor.java:20) HelloWorldResponseInterceptor - class Response {
+    outputSpeech: class SsmlOutputSpeech {
+        class OutputSpeech {
+            type: SSML
+            playBehavior: null
+        }
+        ssml: <speak>Hello world</speak>
+    }
+    card: class SimpleCard {
+        class Card {
+            type: Simple
+        }
+        title: HelloWorld
+        content: Hello world
+    }
+    reprompt: null
+    directives: null
+    shouldEndSession: null
+    canFulfillIntent: null
+}

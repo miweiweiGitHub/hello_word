@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basic-algorithm/basic-algorithm.iml" filepath="$PROJECT_DIR$/basic-algorithm/basic-algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hello_word.iml" filepath="$PROJECT_DIR$/.idea/hello_word.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sound-skill/sound-skill.iml" filepath="$PROJECT_DIR$/sound-skill/sound-skill.iml" />
     </modules>
   </component>
 </project>
