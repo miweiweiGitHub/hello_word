@@ -1,2 +1,16 @@
 server:
-  port: 8310
+  port: 14140
+test:
+  urls:
+    - nice
+    - hello
+
+apollo:
+  bootstrap:
+    enabled: true
+    namespaces: application
+    eagerLoad:
+      enabled: true
+  #put apollo initialization before logging system initialization
+#  apollo.bootstrap.eagerLoad.enabled=true
+#  apollo.bootstrap.namespaces=application

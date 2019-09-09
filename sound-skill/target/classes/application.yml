@@ -1,2 +1,6 @@
 server:
-  port: 8310
+  port: 14140
+test:
+  urls:
+    - nice
+    - hello

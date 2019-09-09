@@ -17,6 +17,7 @@ public class HelloWorldResponseInterceptor implements ResponseInterceptor {
 
     @Override
     public void process(HandlerInput handlerInput, Optional<Response> response) {
-        response.ifPresent(value -> log.debug(value.toString()));
+
+        response.ifPresent(value -> log.info(value.toString()));
     }
 }

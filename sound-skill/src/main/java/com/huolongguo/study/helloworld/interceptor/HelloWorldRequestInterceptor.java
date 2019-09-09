@@ -14,7 +14,8 @@ public class HelloWorldRequestInterceptor implements RequestInterceptor {
 
     @Override
     public void process(HandlerInput handlerInput) {
-        log.debug(handlerInput.getRequestEnvelope().toString());
+
+        log.info(handlerInput.getRequestEnvelope().toString());
     }
 }
 

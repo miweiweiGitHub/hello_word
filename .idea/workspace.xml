@@ -2,12 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e548e26-2edc-4700-b683-dfa3a9c11b7a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_amazon_alexa_ask_sdk_model_1_17_0.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-algorithm/src/main/java/com/huolongguo/study/vo/MyNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic-algorithm/src/main/java/com/huolongguo/study/vo/MyNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-algorithm/target/classes/com/huolongguo/study/vo/MyNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/basic-algorithm/target/classes/com/huolongguo/study/vo/MyNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/info.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/sound-skill.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/sound-skill.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/SampleApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/SoundApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/HelloWorldSkillServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/HelloWorldSkillServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/CancelandStopIntentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/CancelandStopIntentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/HelloWorldIntentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/HelloWorldIntentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/HelpIntentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/HelpIntentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/LaunchRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/LaunchRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/SessionEndedRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/SessionEndedRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/interceptor/HelloWorldRequestInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/interceptor/HelloWorldRequestInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/interceptor/HelloWorldResponseInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/interceptor/HelloWorldResponseInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/target/classes/com/huolongguo/study/SampleApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/target/classes/com/huolongguo/study/helloworld/HelloWorldSkillServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/target/classes/com/huolongguo/study/helloworld/HelloWorldSkillServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/target/classes/com/huolongguo/study/helloworld/handlers/CancelandStopIntentHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/target/classes/com/huolongguo/study/helloworld/handlers/CancelandStopIntentHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/target/classes/com/huolongguo/study/helloworld/handlers/HelloWorldIntentHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/target/classes/com/huolongguo/study/helloworld/handlers/HelloWorldIntentHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/target/classes/com/huolongguo/study/helloworld/handlers/HelpIntentHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/target/classes/com/huolongguo/study/helloworld/handlers/HelpIntentHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/target/classes/com/huolongguo/study/helloworld/handlers/LaunchRequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/target/classes/com/huolongguo/study/helloworld/handlers/LaunchRequestHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/target/classes/com/huolongguo/study/helloworld/handlers/SessionEndedRequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/target/classes/com/huolongguo/study/helloworld/handlers/SessionEndedRequestHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/target/classes/com/huolongguo/study/helloworld/interceptor/HelloWorldRequestInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/target/classes/com/huolongguo/study/helloworld/interceptor/HelloWorldRequestInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound-skill/target/classes/com/huolongguo/study/helloworld/interceptor/HelloWorldResponseInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/sound-skill/target/classes/com/huolongguo/study/helloworld/interceptor/HelloWorldResponseInterceptor.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/basic-algorithm/target/" />
     <ignored path="$PROJECT_DIR$/sound-skill/target/" />
@@ -17,6 +38,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/hello_word$Temp.ic" NAME="Temp Coverage Results" MODIFIED="1567751901656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.huolongguo.study.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hello_word$SoundApplication.ic" NAME="SoundApplication Coverage Results" MODIFIED="1567755215088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.huolongguo.study.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1276527602">
       <usages-collector id="statistics.lifecycle.project">
@@ -24,38 +53,43 @@
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="35" />
-          <entry key="xml" value="6" />
-          <entry key="yml" value="1" />
+          <entry key="class" value="33" />
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="256" />
+          <entry key="xml" value="12" />
+          <entry key="yml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="35" />
-          <entry key="XML" value="6" />
-          <entry key="YAML" value="1" />
+          <entry key="CLASS" value="33" />
+          <entry key="JAVA" value="256" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="12" />
+          <entry key="YAML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1722" />
-          <entry key="xml" value="22" />
-          <entry key="yml" value="4" />
+          <entry key="dummy" value="18" />
+          <entry key="java" value="2237" />
+          <entry key="xml" value="33" />
+          <entry key="yml" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1722" />
-          <entry key="XML" value="22" />
-          <entry key="YAML" value="4" />
+          <entry key="JAVA" value="2237" />
+          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="XML" value="33" />
+          <entry key="YAML" value="59" />
         </counts>
       </usages-collector>
     </session>
@@ -63,10 +97,45 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic-algorithm/src/main/java/com/huolongguo/study/vo/MyNode.java">
+        <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/module/ifengnews/ifengnewsSkillServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="77" column="4" selection-start-line="77" selection-start-column="4" selection-end-line="88" selection-end-column="5" />
+            <state relative-caret-position="722">
+              <caret line="47" column="44" lean-forward="true" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PlaybackFailedHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1077#1078#0" expanded="true" />
+                <element signature="e#1104#1105#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/amazon/alexa/ask-sdk-core/2.19.0/ask-sdk-core-2.19.0.jar!/com/amazon/ask/response/ResponseBuilder.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="169" column="39" selection-start-line="169" selection-start-column="27" selection-end-line="169" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/display/PlayTemplateController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="138" column="37" selection-start-line="138" selection-start-column="31" selection-end-line="138" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,6 +148,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -89,22 +159,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/basic-algorithm/pom.xml" />
-        <option value="$PROJECT_DIR$/basic-algorithm/src/main/java/com/huolongguo/study/vo/MyQueue.java" />
         <option value="$PROJECT_DIR$/basic-algorithm/src/main/java/com/huolongguo/study/vo/MyStack.java" />
         <option value="$PROJECT_DIR$/basic-algorithm/src/main/java/com/huolongguo/study/service/QueueTest.java" />
         <option value="$PROJECT_DIR$/basic-algorithm/src/main/java/com/huolongguo/study/service/NodeTest.java" />
-        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/SessionEndedRequestHandler.java" />
-        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/HelpIntentHandler.java" />
-        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/HelloWorldIntentHandler.java" />
-        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/CancelandStopIntentHandler.java" />
-        <option value="$PROJECT_DIR$/sound-skill/pom.xml" />
-        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/LaunchRequestHandler.java" />
-        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/interceptor/HelloWorldResponseInterceptor.java" />
-        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/HelloWorldSkillServlet.java" />
         <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/SampleApplication.java" />
-        <option value="$PROJECT_DIR$/sound-skill/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/basic-algorithm/src/main/java/com/huolongguo/study/vo/MyNode.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/demo/Temp.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/interceptor/HelloWorldRequestInterceptor.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/interceptor/HelloWorldResponseInterceptor.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/service/BaseService.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/config/SoundConfig.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/demo/AttributesController.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/service/impl/BaseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/SoundApplication.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/demo/ifengnewsSkillServlet.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/HelloWorldSkillServlet.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/CancelandStopIntentHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/HelpIntentHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/LaunchRequestHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/SessionEndedRequestHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/HelloWorldIntentHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/demo/PlaybackNearlyFinishedHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/attribute/AttributesController.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/config/RestTemplateConfig.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/interceptor/SavePersistentAttributesResponseInterceptor.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/model/PlaybackInfo.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/utils/TextUtils.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sound-skill/pom.xml" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/display/PlayTemplateController.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PlaybackStopHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/SessionEndedHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/ShuffleOnHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/StartOverHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/AudioPlayerController.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/ExitHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/LoopOffHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/LoopOnHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PlaybackFailedHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PlaybackFinishedHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PlaybackNearlyFinishedHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PlaybackNextHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PlaybackPauseHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PlaybackPreviousHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PlaybackStartedHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PlaybackStartHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PlaybackStoppedHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PushCommandHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/ShuffleOffHandler.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/interceptor/LoadPersistentAttributesRequestInterceptor.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/module/ifengnews/ifengnewsSkillServlet.java" />
+        <option value="$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/module/ifengnews/handlers/GetAlbumIntentHandler.java" />
       </list>
     </option>
   </component>
@@ -126,11 +231,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="-4" />
-    <option name="width" value="1855" />
-    <option name="height" value="1084" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -140,7 +243,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,59 +254,136 @@
             <path>
               <item name="hello_word" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello_word" type="462c0819:PsiDirectoryNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="sound-skill" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hello_word" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello_word" type="462c0819:PsiDirectoryNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="sound-skill" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hello_word" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello_word" type="462c0819:PsiDirectoryNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello_word" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello_word" type="462c0819:PsiDirectoryNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="sound-skill" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hello_word" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello_word" type="462c0819:PsiDirectoryNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="sound-skill" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hello_word" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello_word" type="462c0819:PsiDirectoryNode" />
-              <item name="basic-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="sound-skill" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="vo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello_word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello_word" type="462c0819:PsiDirectoryNode" />
+              <item name="sound-skill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="attribute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello_word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello_word" type="462c0819:PsiDirectoryNode" />
+              <item name="sound-skill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello_word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello_word" type="462c0819:PsiDirectoryNode" />
+              <item name="sound-skill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="display" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello_word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello_word" type="462c0819:PsiDirectoryNode" />
+              <item name="sound-skill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello_word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello_word" type="462c0819:PsiDirectoryNode" />
+              <item name="sound-skill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+              <item name="ifengnews" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello_word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello_word" type="462c0819:PsiDirectoryNode" />
+              <item name="sound-skill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+              <item name="ifengnews" type="462c0819:PsiDirectoryNode" />
+              <item name="handlers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello_word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello_word" type="462c0819:PsiDirectoryNode" />
+              <item name="sound-skill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+              <item name="ifengnews" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello_word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello_word" type="462c0819:PsiDirectoryNode" />
+              <item name="sound-skill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+              <item name="ifengnews" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567653384419" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568022399172" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../skill-ifengfm" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -212,9 +392,11 @@
       <recent name="com.huolongguo.study" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\github\hello_word\sound-skill\src\main\resources" />
-      <recent name="F:\github\hello_word\sound-skill\src\main\java\com\huolongguo\study\helloworld" />
+      <recent name="F:\github\hello_word\sound-skill" />
       <recent name="F:\github\hello_word\sound-skill\src\main\java\com\huolongguo\study" />
+      <recent name="F:\github\hello_word\sound-skill\src\main\java\com\huolongguo\study\config" />
+      <recent name="F:\github\hello_word\sound-skill\src\main\java\com\huolongguo\study\demo" />
+      <recent name="F:\github\hello_word" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -229,7 +411,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyNode">
+  <component name="RunManager">
     <configuration name="MyNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.huolongguo.study.vo.MyNode" />
       <module name="basic-algorithm" />
@@ -269,8 +451,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SampleApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huolongguo.study.SampleApplication" />
+    <configuration name="SoundApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huolongguo.study.SoundApplication" />
       <module name="sound-skill" />
       <extension name="coverage">
         <pattern>
@@ -282,16 +464,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huolongguo.study.demo.Temp" />
+      <module name="sound-skill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huolongguo.study.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.QueueTest" />
       <item itemvalue="Application.NodeTest" />
       <item itemvalue="Application.MyNode" />
-      <item itemvalue="Application.SampleApplication" />
+      <item itemvalue="Application.SoundApplication" />
+      <item itemvalue="Application.Temp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SoundApplication" />
+        <item itemvalue="Application.Temp" />
         <item itemvalue="Application.MyNode" />
-        <item itemvalue="Application.SampleApplication" />
         <item itemvalue="Application.NodeTest" />
         <item itemvalue="Application.QueueTest" />
       </list>
@@ -314,7 +511,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -323,8 +520,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.45711184" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.55700326" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35396308" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29641694" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -332,163 +529,467 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.50705755" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.1641791" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.1641791" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35396308" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29641694" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.50705755" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.1641791" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/HelloWorldIntentHandler.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/basic-algorithm/src/main/java/com/huolongguo/study/vo/MyQueue.java">
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/module/ifengnews/interceptor/SavePersistentAttributesResponseInterceptorifengnews.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+        <state relative-caret-position="243">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic-algorithm/src/main/java/com/huolongguo/study/vo/MyStack.java">
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/module/ifengnews/interceptor/LoadPersistentAttributesRequestInterceptorifengnews.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="36" column="48" lean-forward="true" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+        <state relative-caret-position="243">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic-algorithm/src/main/java/com/huolongguo/study/service/QueueTest.java">
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/module/ifengnews/handlers/SessionEndedRequestHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        <state relative-caret-position="189">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic-algorithm/src/main/java/com/huolongguo/study/service/NodeTest.java">
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/module/ifengnews/handlers/LaunchRequestHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-start-column="8" selection-end-column="36" />
+        <state relative-caret-position="162">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/System.java">
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/module/ifengnews/handlers/IfengNewsErrorHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="787" column="25" selection-start-line="787" selection-start-column="25" selection-end-line="787" selection-end-column="25" />
+        <state relative-caret-position="243">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic-algorithm/pom.xml">
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/module/ifengnews/handlers/HelpIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/module/ifengnews/handlers/GetAlbumIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="84" column="36" lean-forward="true" selection-start-line="84" selection-start-column="36" selection-end-line="84" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/module/ifengnews/handlers/FallbackIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/module/ifengnews/handlers/CancelandStopIntentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/utils/TextUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/resources/log4j2-spring.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/utils/EncryptUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/resources/application.yml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.1.8.RELEASE/spring-data-mongodb-2.1.8.RELEASE.jar!/org/springframework/data/mongodb/core/convert/MappingMongoConverter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/SoundApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/config/SoundConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/display/Provider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/display/RenderPlayerInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/display/Control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/display/Content.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/module/ifengnews/model/AudiolistBean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/HelpIntentHandler.java">
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/module/ifengnews/model/DataBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/module/ifengnews/model/HttpUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/LaunchRequestHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/amazon/alexa/ask-sdk-servlet-support/2.19.0/ask-sdk-servlet-support-2.19.0.jar!/com/amazon/ask/servlet/ServletConstants.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/HelloWorldIntentHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/CancelandStopIntentHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/handlers/SessionEndedRequestHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sound-skill/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="60" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/SampleApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/HelloWorldSkillServlet.java">
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/module/ifengnews/model/iFengFMResponse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="33" />
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/module/ifengnews/model/ListBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar!/com/fasterxml/jackson/databind/ObjectMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="136" column="11" selection-start-line="136" selection-start-column="11" selection-end-line="136" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/amazon/alexa/ask-sdk-core/2.19.0/ask-sdk-core-2.19.0.jar!/com/amazon/ask/request/Predicates.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/sound-skill/libs/ask-sdk-model-1.17.0.jar!/com/amazon/ask/model/Request.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-566">
+          <caret line="161" column="48" selection-start-line="161" selection-start-column="31" selection-end-line="161" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/sound-skill/libs/ask-sdk-model-1.17.0.jar!/com/amazon/ask/model/RequestEnvelope.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/amazon/alexa/ask-sdk-core/2.19.0/ask-sdk-core-2.19.0.jar!/com/amazon/ask/dispatcher/request/handler/HandlerInput.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="e#2498#2499#0" expanded="true" />
+            <element signature="e#2541#2542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PlaybackPauseHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="43" column="39" lean-forward="true" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/interceptor/HelloWorldRequestInterceptor.java">
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/Flag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/LoopOnHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PlaybackStopHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="43" column="39" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/LoopOffHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/ShuffleOnHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PlaybackStartedHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="34" column="49" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/sound-skill/libs/ask-sdk-model-1.17.0.jar!/com/amazon/ask/model/interfaces/audioplayer/PlaybackNearlyFinishedRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PlaybackNearlyFinishedHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="31" column="66" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="78" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/helloworld/interceptor/HelloWorldResponseInterceptor.java">
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/AudioPlayerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="36" />
+        <state relative-caret-position="-169">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic-algorithm/src/main/java/com/huolongguo/study/vo/MyNode.java">
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/StartOverHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="77" column="4" selection-start-line="77" selection-start-column="4" selection-end-line="88" selection-end-column="5" />
+        <state relative-caret-position="628">
+          <caret line="46" column="39" lean-forward="true" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/sound-skill/libs/ask-sdk-model-1.17.0.jar!/com/amazon/ask/model/interfaces/audioplayer/PlaybackStoppedRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/attribute/PersistentAttributesRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/attribute/AttributesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/config/MongoConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/config/RestTemplateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/config/SkillIFengFMConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PlaybackStoppedHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="39" column="67" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PlaybackFinishedHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="38" column="51" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/display/PlayTemplateController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="138" column="37" selection-start-line="138" selection-start-column="31" selection-end-line="138" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/amazon/alexa/ask-sdk-core/2.19.0/ask-sdk-core-2.19.0.jar!/com/amazon/ask/response/ResponseBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="169" column="39" selection-start-line="169" selection-start-column="27" selection-end-line="169" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/handlers/PlaybackFailedHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1077#1078#0" expanded="true" />
+            <element signature="e#1104#1105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sound-skill/src/main/java/com/huolongguo/study/module/ifengnews/ifengnewsSkillServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="47" column="44" lean-forward="true" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
